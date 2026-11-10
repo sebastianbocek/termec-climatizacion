@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sebastianbocek.github.io/termec-climatizacion/sitemap.xml
